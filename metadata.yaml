@@ -1,0 +1,27 @@
+_repo: Elogio-Historico-do-Conde-de-Ficalho_34624
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnay, Eduardo
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '37130'
+    url: http://www.gutenberg.org/2009/agents/37130
+description: ''
+gutenberg_issued: '2010-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34624'
+  lccn: '40016228'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ficalho, Francisco Manuel de Melo, Conde de, 1837-1903'
+- !lcc 'QK'
+title: Elogio Historico do Conde de Ficalho
+url: http://www.gutenberg.org/ebooks/34624
