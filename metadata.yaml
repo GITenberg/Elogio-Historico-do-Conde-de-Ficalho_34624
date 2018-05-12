@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37130'
     url: http://www.gutenberg.org/2009/agents/37130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34624#Elogio-Historico-do-Conde-de-Ficalho
 gutenberg_issued: '2010-12-11'
 gutenberg_type: Text
 identifiers:
